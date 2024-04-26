@@ -6,11 +6,23 @@
 .FormBusqueda{
     background-color: rgb(57, 57, 241);
     width: 350px;
-    padding: 5px;
+    padding: 10px;
     margin-top: auto;
     margin: auto;
+    border-radius: 15px;
 }
 
 .elementos{
-    
+    width: 300px;
+    padding: 8px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.boton{
+    width:100px;
+    padding: 15px;
+    border-radius: 10px;
+    margin-left: 110px;
+
 }
